@@ -1,4 +1,4 @@
-Python Slot Machine
+Slot Machine
 A terminal-based slot machine game written in Python. Manage your bank, place bets, spin the reels, and try to hit the jackpot, without going broke.
 -----------------------------------------------------
 Features
